@@ -24,6 +24,7 @@ Contact with me :
 程序4：调节音量
 
 ***************************程序1****************************************
+
 \#include <stdio.h>
 \#include <string.h>
 \#include <stdlib.h>
@@ -80,6 +81,7 @@ int main(int argc,char **argv)
 }
 
 ******************************** 程序2*****************************************************
+
 \#include <stdio.h>
 \#include <string.h>
 \#include <errno.h>
@@ -178,6 +180,7 @@ int main(int argc, char **argv)
 }
 
 *******************************程序3*****************************************************
+
 \#include <stdio.h>
 \#include <stdlib.h>
 \#include <string.h>
@@ -249,6 +252,7 @@ int main(int argc, char *argv[])
 }
 
 *************************************程序4*********************************************************
+
 \#include <sys/types.h>
 \#include <sys/stat.h>
 \#include <fcntl.h>
